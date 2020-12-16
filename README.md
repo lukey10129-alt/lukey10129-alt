@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=lukey10129-alt)
-### Hi there 👋 also i cba to sort out the stats being stuck in dark mode if you use light mode your a poser 
+### Hi there 👋 
+also i cba to sort out the stats being stuck in dark mode if you use light mode your a poser 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lukey10129-alt&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
 
