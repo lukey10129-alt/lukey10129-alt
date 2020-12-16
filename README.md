@@ -2,7 +2,7 @@
 ### Hi there  👌
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lukey10129-alt&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lukey10129-alt&show_icons=true&count_private=false&hide=stars&theme=tokyonight">
 
 im a 15 year old Amateur programer that commonly works with https://github.com/AlexAndHisScripts  https://github.com/Liam-Murley
 
