@@ -4,6 +4,8 @@
 
 im a 15 year old amature programer that commonly works with https://github.com/AlexAndHisScripts and others 
 
+## Languages and Tools:
+
 
 
 <img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" width="48" alt="WebStorm Logo"> <img src="https://seeklogo.com/images/D/datagrip-logo-295CA63255-seeklogo.com.png" width="48" alt="DataGrip Logo"> <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" width="48" alt="PyCharm Logo"> 
