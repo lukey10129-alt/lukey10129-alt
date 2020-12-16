@@ -4,6 +4,14 @@
 
 im a 15 year old amature programer that commonly works with https://github.com/AlexAndHisScripts and others 
 
+
+
+
+
+
+
+
+
 ## Languages and Tools:
 
 
