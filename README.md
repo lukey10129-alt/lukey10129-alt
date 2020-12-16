@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=lukey10129-alt)
 ### Hi there 👋
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lukey10129-alt&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
