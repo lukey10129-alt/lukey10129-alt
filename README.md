@@ -6,6 +6,7 @@
 
 im a 15 year old Amateur programer that commonly works with https://github.com/AlexAndHisScripts  https://github.com/Liam-Murley
 
+also i promise i do do more stuff its just mostly private 
 
 
 
