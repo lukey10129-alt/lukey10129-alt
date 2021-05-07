@@ -10,6 +10,10 @@ also i promise i do do more stuff its just mostly private
 
 
 
+im probably either asleep or at school 
+
+
+
 
 
 
